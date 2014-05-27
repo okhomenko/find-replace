@@ -1,0 +1,27 @@
+{
+  "name": "find-replace",
+  "version": "0.0.1",
+  "description": "Library for efficient search by plain objects, arrays, any depth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okhomenko/find-replace.git"
+  },
+  "author": "Oleksandr Khomenko <okhomenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okhomenko/find-replace/issues"
+  },
+  "homepage": "https://github.com/okhomenko/find-replace",
+  "devDependencies": {
+      "http-server": "*",
+      "karma": "*",
+      "karma-mocha": "*",
+      "karma-sinon-chai": "*",
+      "karma-coverage": "*",
+      "karma-phantomjs-launcher": "*"
+  }
+}

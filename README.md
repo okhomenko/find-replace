@@ -1,4 +1,4 @@
-find-next
+find-replace
 =========
 
-find-next
+Library for efficient search/replace on plain JavaScript objects and arrays.
